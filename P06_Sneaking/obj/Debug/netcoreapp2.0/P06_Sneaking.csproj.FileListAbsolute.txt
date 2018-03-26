@@ -1,0 +1,10 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.pdb

@@ -1,0 +1,10 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\04.WorkingInAbstractionExercise\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.pdb
